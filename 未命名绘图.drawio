@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
+  <diagram name="第 1 页" id="ycmetl8R6n41SGXX40EI">
+    <mxGraphModel dx="1164" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6601RAm9eUYJ0_b5fXty-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-1" target="6601RAm9eUYJ0_b5fXty-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-1" value="接收客户问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6601RAm9eUYJ0_b5fXty-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="397" y="300" />
+              <mxPoint x="467" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6601RAm9eUYJ0_b5fXty-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-2" value="查询问题没有人为操作的场景&lt;div&gt;属于bug问题&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-6" value="回复客户属于bug情景&lt;div&gt;安抚客户情绪并告知在加急整理方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-8" value="客户侧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="222" y="268" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-9" target="6601RAm9eUYJ0_b5fXty-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-9" value="整理应对方案，优先方案A&lt;div&gt;A：协商追回&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;B：承担损失&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="340" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-11" value="内部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="417" y="268" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-13" value="内部群同步客户情况及问题对应的解决方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-22" value="同步客户方案A&lt;div&gt;协商追回奖品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-23" target="6601RAm9eUYJ0_b5fXty-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-23" target="6601RAm9eUYJ0_b5fXty-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-23" value="客户意见" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-26" target="6601RAm9eUYJ0_b5fXty-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="720" />
+              <mxPoint x="182" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-26" value="跟进解决流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="530" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-27" value="同意方案A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="438" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-28" target="6601RAm9eUYJ0_b5fXty-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-28" value="提出方案B&lt;div&gt;灵智承担损失&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-30" value="不同意方案A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-31" value="问题复盘同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="790" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6601RAm9eUYJ0_b5fXty-34" target="6601RAm9eUYJ0_b5fXty-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="720" />
+              <mxPoint x="182" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6601RAm9eUYJ0_b5fXty-34" value="客户同意方案后跟进后续流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
